@@ -17,7 +17,7 @@ def first():
 
 @app.route('/home')
 def home():
-    return "<h1>Welcome!!!</h2>"
+    return "<h1>Welcome User!!!</h2>"
 
 @app.route('/home/<guest>')
 def home_guest(guest):
