@@ -80,8 +80,8 @@ input[type="radio"] {
 
 /* Change color for each gender */
 .gender-button.male {
-    background-color: #4D90FE;
-    color: white;
+    background-color: #E1E1E1;
+    color: black;
 }
 
 .gender-button.female {
